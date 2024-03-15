@@ -16,7 +16,7 @@ int main()
     printf("Enter the number of search:- \n");
     scanf("%d", &num);
     l = 0;
-    h = n-15;
+    h = n-1;
     mid = (l + h) / 2;
 
     while (l <= h)

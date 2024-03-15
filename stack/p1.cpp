@@ -16,7 +16,6 @@ int top=-1;
             a[top]=value;
         }
     }
-.
     void display()
     {
         for(int i=0;i<=top;i++)
